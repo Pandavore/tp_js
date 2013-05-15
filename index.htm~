@@ -74,8 +74,8 @@
     <script type="text/javascript" src="js/bootstrap.2.2.2.js"></script>
     <script type="text/javascript" src="js/underscore.js"></script>
     <script type="text/javascript" src="js/backbone.js"></script>
-    <script type="text/javascript" src="js/lodash.1.2.0.js"></script>
     <script type="text/javascript" src="js/underscore.flatten.js"></script>
+    <script type="text/javascript" src="js/lodash.1.2.0.js"></script>
 
     <script id="friendTmpl" type="text/x-template" charset="utf-8">
       <div class="media">
