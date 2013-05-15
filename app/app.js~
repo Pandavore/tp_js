@@ -1,0 +1,10 @@
+var appView = Backbone.View.extend({
+	coll: null,
+	initialize: function(friends){
+		this.coll = friends;
+	}
+});
+
+var myFriends = new FbApp.Friends();
+myFriends.reset(getFriends());
+var myApp = new AppView(myFriends);
